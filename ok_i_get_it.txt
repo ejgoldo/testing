@@ -1,3 +1,7 @@
 ok this was a stupid name for the file (note to not do that again) but I think I have the bash down for now. 
 
 I can move on for now. Next thing to learn is doing a pull from a repo in github I think I'll pull from one of my own repos before trying to do it on someone else's repo
+
+ok that was fucking brutal man, i had to hold the right arrow to get to where I wanted to start writing oof
+
+ok nvm, you move the cursor down to where you want to start first then press the i key to start writing lol. i got it
