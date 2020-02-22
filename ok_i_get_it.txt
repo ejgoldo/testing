@@ -1,0 +1,3 @@
+ok this was a stupid name for the file (note to not do that again) but I think I have the bash down for now. 
+
+I can move on for now. Next thing to learn is doing a pull from a repo in github I think I'll pull from one of my own repos before trying to do it on someone else's repo
