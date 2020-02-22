@@ -1,1 +1,2 @@
 created this repo with bash
+that is kind of odd, wonder how it would be with code when you try to enter something new through here. I'll test that out next
