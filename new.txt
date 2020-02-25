@@ -1,3 +1,7 @@
 this is a new test file
 
 idk if this worked, let's see if it did
+
+alright so I still remember how to use the terminal as well as how to use git through the terminal.
+
+next is making sure that I get how to use APIs. will be important so that I can continue practicing everything I have learned by making my own web site as well as side projects
